@@ -9,7 +9,7 @@ const Toggle=()=>{
     if(mystyle.color==='white'){
         setmystyle({ color:'black',
         backgroundColor: 'white'})
-        setBtnText("Enable dark mode")
+        setBtnText("Enable dark modee")
     }
     else{
         setmystyle({ color:'white',
